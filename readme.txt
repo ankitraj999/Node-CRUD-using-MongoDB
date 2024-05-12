@@ -6,8 +6,8 @@ command used to create this project
 #for testing we can use insomnia or postman
 -------------------------------------
 # setup mondo db on mongodb atlas and created backendDb cluser it is a shared cluster
-# usename : ankitzraj999
-# passkey: HLpOPZ2flodt1Flh
+# usename : <username>
+# passkey: <passkey>
  (104.28.85.108
  mongodb+srv://ankitzraj999:<password>@backenddb.0lzfaib.mongodb.net/?retryWrites=true&w=majority&appName=backendDb
  mongodb+srv://ankitzraj999:<password>@backenddb.0lzfaib.mongodb.net/
