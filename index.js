@@ -7,8 +7,8 @@ const mongoose=require('mongoose')
 // Below is the middle ware we define
 app.use(express.json());
 
-const username = encodeURIComponent("ankitzraj999");
-const password = encodeURIComponent("HLpOPZ2flodt1Flh");
+const username = encodeURIComponent("<username>");
+const password = encodeURIComponent(<passkey>);
 const cluster = "backenddb";
 let url=`mongodb+srv://${username}:${password}@${cluster}.0lzfaib.mongodb.net/node-db?retryWrites=true&w=majority&appName=backendDb`;
 mongoose.connect(url)
